@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou o Lucas de Oliveira Batista @lucasolib
 
 - 👀 Estou interessado em me especializar em outras linguagens de programação!
-- 🌱 Atualmente, estou aprendendo Python!
+- 🌱 Atualmente, estou aprendendo Java!
 - 📜 Sou um desenvolvedor Full-Stack JavaScript!
 
 ##
@@ -46,12 +46,4 @@
  <div> 
   <a href ="mailto:lucasolibatista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-de-oliveira-batista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
- ##
-  
- <div> 
- 
-  ![Snake animation](https://github.com/lucasolib/lucasolib/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
